@@ -1,0 +1,56 @@
+{
+"hero_banner": [],
+"favicon": "",
+"contact_info": {
+"phone": "+880189014222",
+"whatsapp": "880189014222",
+"email": "Info@submonth.com"
+},
+"admin_password": "password123",
+"usd_to_bdt_rate": 110,
+"site_logo": "",
+"hero_slider_interval": 5000,
+"hot_deals_speed": 10,
+"payment_methods": {
+"bKash": {
+"number": "xxxx",
+"logo_url": "uploads/bkash.png",
+"is_default": true,
+"is_active": true
+},
+"Nagad": {
+"number": "xxxx",
+"logo_url": "uploads/nagad.png",
+"is_default": true,
+"is_active": true
+},
+"Rocket": {
+"number": "xxxx",
+"logo_url": "uploads/rocket.png",
+"is_default": true,
+"is_active": true
+},
+"Upay": {
+"number": "xxxx",
+"logo_url": "uploads/upay.png",
+"is_default": true,
+"is_active": true
+},
+"Binance Pay": {
+"pay_id": "xxxx",
+"logo_url": "uploads/binance.png",
+"is_default": true,
+"is_active": true
+}
+},
+"smtp_settings": {
+"admin_email": "submonth.com@gmail.com",
+"app_password": "esievucarwgmjgtj"
+},
+"site_pages": {
+"about_us": "About us content...",
+"privacy_policy": "Privacy policy content...",
+"terms_and_conditions": "Terms and conditions content...",
+"refund_policy": "Refund policy content..."
+}
+}
